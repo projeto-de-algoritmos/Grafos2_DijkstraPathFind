@@ -33,7 +33,6 @@ A apresentação pode ser acessada no seguinte [link](https://youtu.be/gXPv9Bdwa
 ## Instalação 
 **Linguagem**: Python<br>
 **Framework**: Pygame<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
 - Instale o [python 3](https://www.python.org/downloads/);
