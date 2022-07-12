@@ -15,15 +15,34 @@ Demonstra a visualização do menor caminho utilizando o algoritmo de dijkstra.
 A apresentação pode ser acessada no seguinte [link]()
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![Tela inicial](./images/screenshot1.png)
+</figcaption>
+    Imagem 1: Tela inicial
+</figcaption>
+
+![Menor caminho](./images/screenshot2.png)
+</figcaption>
+    Imagem 2: Mostrando menor caminho
+</figcaption>
+
+![Sem solução](./images/screenshot3.png)
+</figcaption>
+    Imagem 3: Trajeto sem solução
+</figcaption>
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
+**Linguagem**: Python<br>
+**Framework**: Pygame<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+- Instale o [python 3](https://www.python.org/downloads/);
+- Instale o [pygame](https://pygame-zero.readthedocs.io/en/1.1/installation.html);
+- Instale o [tkinter](https://tkdocs.com/tutorial/install.html#install-x11-python);
+
+```
+python3 dijkstra.py
+```
 
 ## Outros 
 Referência do projeto [Link](https://www.youtube.com/watch?v=3yUPeIayvfU)
