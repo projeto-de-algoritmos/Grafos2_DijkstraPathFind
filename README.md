@@ -12,7 +12,7 @@ Demonstra a visualização do menor caminho utilizando o algoritmo de dijkstra.
 
 ## Apresentação
 
-A apresentação pode ser acessada no seguinte [link]()
+A apresentação pode ser acessada no seguinte [link](https://youtu.be/gXPv9BdwaU8).
 
 ## Screenshots
 ![Tela inicial](./images/screenshot1.png)
@@ -43,9 +43,11 @@ Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 ```
 python3 dijkstra.py
 ```
+- Para encontrar o menor caminho basta apertar a tecla `ENTER`
+## Outros
+- Para inserir as paredes manualmente com o mouse vá até a linha 32 do código e insira `self.parede = False`.
 
-## Outros 
-Referência do projeto [Link](https://www.youtube.com/watch?v=3yUPeIayvfU)
+- Referência do projeto [Link](https://www.youtube.com/watch?v=3yUPeIayvfU)
 
 
 
